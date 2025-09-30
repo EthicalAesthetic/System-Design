@@ -16,7 +16,8 @@ Learning Objectives
 ## Table of Contens
 1. [Load Balancing](#load-balancing)
 2. [SQL vs NoSQL](#sql-vs-nosql)
-
+3. [CAP theoram](#cap-theorem)
+4. [Replication](#replication-and-redundency)
 # Load Balancing 
 Distrubution of Load on server
 ## Types of distribution 
@@ -75,6 +76,25 @@ Time Series DB-
 
 ![](Resources/Screenshot%202025-09-30%20133000.png)
 
+# CAP theorem
+Consistency Availability Partion tolerence
+
+![](Resources/Screenshot%202025-10-01%20015702.png)
+
+![](Resources/Screenshot%202025-10-01%20020017.png)
+
+
+# Replication and Redundency
+
+![](Resources/Screenshot%202025-10-01%20020250.png)
+
+DR- Disaster Recovery
+
+ 
+
+
+
+
 
 
 
@@ -84,6 +104,6 @@ Time Series DB-
 ### More to go 
 
 - Monitoring/ observability (Time series DB) (Prometheus)(**must do**)
-- ACID 
+- ACID (Automicity Consistency isolation durability)
 - Redis
-- Defination of Open-Source in INDIA.
+- Defination of Open-Source in INDIA. (23:50-36:50)
